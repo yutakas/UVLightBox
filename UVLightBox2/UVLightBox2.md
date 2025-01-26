@@ -22,7 +22,7 @@ LED Light and Power
     </tr>
     <tr>
         <td>
-            Power supply 12V 600W
+            Power supply 12V
         </td>
         <td>
             https://www.amazon.com/dp/B0BW2Q86XH
