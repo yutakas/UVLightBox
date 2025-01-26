@@ -128,3 +128,12 @@ Timer Module
         </td>
     </tr>
 </table>
+
+
+Referene and Spetial thanks\
+https://clayharmonblog.com/uv-led-parts.html\
+https://intaglioeditions.com/procedures/polymer_photogravure.html\
+Polymer Photogravure: A Step-by-Step Manual https://www.amazon.com/gp/product/0815366043
+
+
+
