@@ -9,6 +9,9 @@ That’s it. I put this on two 1-foot-height cardboard boxes and tested it. Cyan
 Actually I did not have a plan to have a wood box first because a room with closed blind worked well for cyanotype.
 But the problem was that it was so bright during exposing and I did not like the weird violet light shined entire room.
  
+<img src="./main.fld/image002.png" />
+<img src="./main.fld/image003.png" />
+
 In a memorial day weekend, I stopped by HomeDepot and picked up cheap woods, ¼ inch-thick 2’-by-4’ boards and a few long ¾inch-by-1inch. HomeDepot guy cut boards to me. The box size is 20”x30”x12” and the front door is 30”x6”.
 Image Image
 I tried VDB this weekend the max black was 5 min. The light may be too strong for VDB. I’m going to try 4 or 6 LED bars instead of 8 LED bars. The top is not glued and it is screwed with only four screws. I can easily replace and adjust the light.
