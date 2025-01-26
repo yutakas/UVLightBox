@@ -10,7 +10,14 @@ Actually I did not have a plan to have a wood box first because a room with clos
 But the problem was that it was so bright during exposing and I did not like the weird violet light shined entire room.
  
 <img src="./main.fld/image002.png" />
-<img src="./main.fld/image003.png" />
+<img src="./main.fld/image003
+
+
+
+
+
+
+.png" />
 
 In a memorial day weekend, I stopped by HomeDepot and picked up cheap woods, ¼ inch-thick 2’-by-4’ boards and a few long ¾inch-by-1inch. HomeDepot guy cut boards to me. The box size is 20”x30”x12” and the front door is 30”x6”.
 Image Image
