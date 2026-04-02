@@ -1,3 +1,7 @@
+// EEPROMAnything.h
+// Template-based EEPROM read/write helpers.
+// Adapted from the Arduino community (public domain).
+
 #include <EEPROM.h>
 #include <Arduino.h>  // for type definitions
 
